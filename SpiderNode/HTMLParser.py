@@ -2,7 +2,8 @@ import re
 import urllib.parse
 import requests
 from bs4 import BeautifulSoup
-from Spider1.URL import URL
+#pycharm写法
+from SpiderNode.URL import URL
 import urllib.robotparser
 
 
